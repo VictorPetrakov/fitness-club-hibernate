@@ -26,7 +26,7 @@
         <hibernate.version>5.4.14.Final</hibernate.version>
         <junit.version>4.13.1</junit.version>
         <mysql.version>8.0.21</mysql.version>
-        <log4j.version>2.13.3</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
     </properties>
 
     <dependencyManagement>
